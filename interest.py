@@ -1,4 +1,5 @@
 def simple_interest(p,t,r):
+    print('My name is susmita karadage')
     print('The principal is', p)
     print('The time period is', t)
     print('The rate of interest is',r)
@@ -9,4 +10,4 @@ def simple_interest(p,t,r):
     return si
     
 
-simple_interest(8, 6, 8)
+simple_interest(7, 6, 8)
